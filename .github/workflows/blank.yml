@@ -5,8 +5,8 @@ env:
   FEIL: 'oplus'
   ANDROID_VERSION: 'android14'
   KERNEL_VERSION: '6.1'
-  KERNEL_NAME: 'ShirokoNekoSystem_Customization-OPad_XinRan'
-  KERNELSU_VARIANT: 'SukiSU-Ultra'
+  KERNEL_NAME: 'ShirokoNeko-K50G-Xinran_Next-4k'
+  KERNELSU_VARIANT: 'Kernel-Next'
   KERNELSU_BRANCH: 'susfs-main'
 
 on:
